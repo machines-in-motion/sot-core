@@ -1,11 +1,11 @@
 /*
- * Copyright 2019
+ * Copyright 2010, CNRS/AIST
+ * Copyright 2011-2019 LAAS, CNRS
  *
- * LAAS-CNRS
+ * fbailly 
  *
- * François Bailly 
- * This file is part of sot-core.
- * See license file.
+ * See LICENSE file
+ *
  */
 
 /* -------------------------------------------------------------------------- */
