@@ -6,7 +6,6 @@
  * Florent Lamiraux, Nicolas Mansard, 
  * Thomas Moulard,  Olivier Stasse
  *
- * CNRS/AIST
  * See LICENSE file
  *
  */
