@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
 class ViewerLoger:
     '''
     This class replace the robotviewer client and log the data sent to the

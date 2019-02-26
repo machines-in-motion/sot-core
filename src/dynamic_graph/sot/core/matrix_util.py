@@ -1,3 +1,14 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011, CNRS/AIST
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+# Francesco Morsillo
+# Thomas Moulard
+# Olivier Stasse
+#
+# See LICENSE file
+
 
 '''
 Tiny matrix functions, taken from Oscar source code.

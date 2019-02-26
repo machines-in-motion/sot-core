@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011, CNRS/AIST
+# Copyright 2011-2019 CNRS
+#
+# Francesco Morsillo
+# Nicolas Mansard
+# Olivier Stasse
+#
+# See LICENSE file
+
 from dynamic_graph.sot.core.meta_task_6d import toFlags
 from dynamic_graph import plug
 from dynamic_graph.sot.core import *

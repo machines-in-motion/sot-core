@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
+
 # This class embeds a given loop function (generally by using a decorator) into a
 # dedicated thread, whose execution can be stoped or run on demand from the
 # script thread.

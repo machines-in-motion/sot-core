@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
+
 # This class is used to record the data during an execution and restore it at a
 # given time isntant.
 

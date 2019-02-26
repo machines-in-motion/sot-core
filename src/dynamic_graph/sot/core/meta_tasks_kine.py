@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011, CNRS/AIST
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
+
 from dynamic_graph.sot.core.meta_task_6d import MetaTask6d
 from dynamic_graph.sot.core.meta_tasks import MetaTaskCom
 from dynamic_graph.sot.core.meta_tasks import gotoNd,goto6d

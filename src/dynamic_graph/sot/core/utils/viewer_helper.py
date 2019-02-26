@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 LAAS CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
 class RobotViewerFaked:
     def update(*args): None
     def updateElementConfig(*args):  None

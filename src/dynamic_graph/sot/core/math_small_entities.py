@@ -1,3 +1,17 @@
+#
+# Copyright 2010, CNRS/AIST
+# Copyright 2011-2019 LAAS CNRS, MPI
+#
+# Francois Keith,
+# Florent Lamiraux,
+# Nicolas Mansard,
+# Olivier Stasse,
+# Julian Viereck,
+# 
+# See LICENSE file
+#
+
+
 from derivator import Derivator_of_Matrix
 from derivator import Derivator_of_Vector
 

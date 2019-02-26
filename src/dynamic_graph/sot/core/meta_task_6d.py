@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
+
 from dynamic_graph import plug
 from dynamic_graph.sot.core import *
 

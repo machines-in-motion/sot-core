@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# Copyright 2011-2019 CNRS
+#
+# Nicolas Mansard
+#
+# See LICENSE file
 # Define a python class to execute sequencial action during a SOT execution.
 #
 # Examples would be:
