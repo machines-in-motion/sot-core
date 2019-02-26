@@ -1,10 +1,11 @@
 /*
- * Copyright 2017, 2019
- * LAAS-CNRS
- * A. Del Prete, T. Flayols, O. Stasse, F. Bailly
+ * Copyright 2010, CNRS/AIST
+ * Copyright 2011-2019 LAAS, CNRS
  *
- * This file is part of sot-core.
- * See license file.
+ * fbailly 
+ *
+ * See LICENSE file
+ *
  */
 
 
