@@ -1,8 +1,14 @@
 /*
- * Copyright 2011, Nicolas Mansard, LAAS-CNRS
+ * Copyright 2010, CNRS/AIST
+ * Copyright 2011-2019 LAAS, CNRS
+ *
+ * Nicolas Mansard
+ * Olivier Stasse
+ * Rohan Budhiraja
  *
  * See LICENSE file
-*/
+ *
+ */
 
 #include <sot/core/visual-point-projecter.hh>
 #include <sot/core/debug.hh>
